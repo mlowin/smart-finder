@@ -54,6 +54,9 @@ Now, you can start the frontend chatbot. If you have not specified a LLM for fro
 ### Observing the performance
 In the backend you can open the menu point "eports". Here, you can see the entered user queries in your chatbot. When inspecting a chat, you can see the extracted filters and products from the vector database that the JHS chatbot sends to the LLM.
 
+## Funding
+"Retrieval-System zur LLM-Integration in KMUs”, was sponsored by the Joachim Herz Stiftung through the Transfer Fellowship program (funded researcher: Dr. Cristina Mihale-Wilson).
+
 ## References
 Lowin, Maximilian and Mihale-Wilson, Cristina, "Economic Retrieval-Augmented Generation for Large Language Model Services" (2025). SIG SVC Pre-ICIS Workshop 2024. 7.
 https://aisel.aisnet.org/sprouts_proceedings_sigsvc_2024/7
