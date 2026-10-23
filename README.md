@@ -1,5 +1,5 @@
-# JHS Chatbot Optimizer
-This is the repository of the RAG Optimization for Conversational Chatbots. The main idea is to add an additional filtering step in the retrieval part of any RAG system using fine-tuned lightweight transformer models. 
+# Smart Finder
+This is the repository of the Smart Finder algorithm, originated from the JHS Chatbot Optimizer project. The main idea is to add an additional filtering step in the retrieval part of any RAG system using fine-tuned lightweight transformer models. 
 
 ## Setup & Prerequisites
 The package requires Python 3.12. Please install the necessary packages using `pip install -r requirements.txt`. A GPU for fine-tuning the transformer models is advantageous, but not required.
